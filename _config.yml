@@ -7,7 +7,6 @@
 
 # Site settings
 title: The best blog ever
-email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   This is my blog; I hope you enjoy it!  Your welcome is in the post called Welcome To My Website! and a description is in the post called
   What Will I Be Posting?
