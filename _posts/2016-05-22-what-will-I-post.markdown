@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What will I be posting?"
-date:2016-5-22 14:44:00
+date: 2016-5-22 14:44:00
 categories: welcome post
 ---
 I will be posting many things, ranging from simple updates to recipes to questionnaires to quizzes, and much, much more!  If you check back
